@@ -1,0 +1,7 @@
+0
+SPOODER 3 N 1
+FoxFriend 1 N N
+Shebook 1 1 N
+
+1
+FoxFriend 2 N N

@@ -1,0 +1,790 @@
+fileFormatVersion: 2
+guid: 1ca0e4085d90df248b12c2e1d6470897
+timeCreated: 1462189309
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: foxfriend32x32_0
+    21300002: foxfriend32x32_1
+    21300004: foxfriend32x32_2
+    21300006: foxfriend32x32_3
+    21300008: foxfriend32x32_4
+    21300010: foxfriend32x32_5
+    21300012: foxfriend32x32_6
+    21300014: foxfriend32x32_7
+    21300016: foxfriend32x32_8
+    21300018: foxfriend32x32_9
+    21300020: foxfriend32x32_10
+    21300022: foxfriend32x32_11
+    21300024: foxfriend32x32_12
+    21300026: foxfriend32x32_13
+    21300028: foxfriend32x32_14
+    21300030: foxfriend32x32_15
+    21300032: foxfriend32x32_16
+    21300034: foxfriend32x32_17
+    21300036: foxfriend32x32_18
+    21300038: foxfriend32x32_19
+    21300040: foxfriend32x32_20
+    21300042: foxfriend32x32_21
+    21300044: foxfriend32x32_22
+    21300046: foxfriend32x32_23
+    21300048: foxfriend32x32_24
+    21300050: foxfriend32x32_25
+    21300052: foxfriend32x32_26
+    21300054: foxfriend32x32_27
+    21300056: foxfriend32x32_28
+    21300058: foxfriend32x32_29
+    21300060: foxfriend32x32_30
+    21300062: foxfriend32x32_31
+    21300064: foxfriend32x32_32
+    21300066: foxfriend32x32_33
+    21300068: foxfriend32x32_34
+    21300070: foxfriend32x32_35
+    21300072: foxfriend32x32_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: foxfriend32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 5}
+        - {x: -16, y: 4}
+        - {x: -16, y: -8}
+        - {x: -15, y: -10}
+        - {x: -1, y: -10}
+        - {x: 1, y: -8}
+        - {x: 1, y: -2}
+        - {x: -2, y: 5}
+    - name: foxfriend32x32_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 8}
+        - {x: -13, y: 8}
+        - {x: -14, y: 6}
+        - {x: -14, y: -9}
+        - {x: 2, y: -9}
+        - {x: 4, y: -6}
+        - {x: 4, y: 3}
+        - {x: 3, y: 6}
+    - name: foxfriend32x32_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -3}
+        - {x: -10, y: -10}
+        - {x: 1, y: -10}
+        - {x: 10, y: 2}
+        - {x: 10, y: 8}
+    - name: foxfriend32x32_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -10}
+        - {x: 4, y: -10}
+        - {x: 10, y: -2}
+        - {x: 10, y: 5}
+        - {x: 9, y: 8}
+    - name: foxfriend32x32_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 7}
+        - {x: 0, y: 4}
+        - {x: -5, y: 7}
+        - {x: -12, y: 7}
+        - {x: -14, y: 6}
+        - {x: -14, y: 1}
+        - {x: -13, y: -8}
+        - {x: -10, y: -11}
+        - {x: 2, y: -11}
+        - {x: 4, y: -10}
+        - {x: 9, y: 0}
+        - {x: 9, y: 6}
+    - name: foxfriend32x32_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -14, y: -4}
+        - {x: -13, y: -8}
+        - {x: -8, y: -10}
+        - {x: 4, y: -10}
+        - {x: 9, y: 1}
+        - {x: 9, y: 8}
+    - name: foxfriend32x32_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 7}
+        - {x: -13, y: 7}
+        - {x: -14, y: 5}
+        - {x: -14, y: -3}
+        - {x: -11, y: -11}
+        - {x: 0, y: -11}
+        - {x: 4, y: -10}
+        - {x: 9, y: 1}
+        - {x: 9, y: 5}
+    - name: foxfriend32x32_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 5}
+        - {x: -13, y: -2}
+        - {x: -11, y: -10}
+        - {x: 5, y: -10}
+        - {x: 12, y: 3}
+        - {x: 12, y: 7}
+        - {x: 9, y: 9}
+    - name: foxfriend32x32_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 10}
+        - {x: -13, y: 3}
+        - {x: -13, y: -8}
+        - {x: -10, y: -10}
+        - {x: 2, y: -10}
+        - {x: 12, y: 0}
+        - {x: 12, y: 10}
+    - name: foxfriend32x32_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 8}
+        - {x: -14, y: 5}
+        - {x: -14, y: -11}
+        - {x: 5, y: -11}
+        - {x: 9, y: 0}
+        - {x: 9, y: 8}
+    - name: foxfriend32x32_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 9}
+        - {x: -8, y: 7}
+        - {x: -12, y: 4}
+        - {x: -12, y: -8}
+        - {x: -6, y: -10}
+        - {x: 8, y: -10}
+        - {x: 11, y: 1}
+        - {x: 11, y: 8}
+    - name: foxfriend32x32_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 9}
+        - {x: -3, y: 9}
+        - {x: -8, y: 7}
+        - {x: -13, y: 0}
+        - {x: -13, y: -4}
+        - {x: -12, y: -6}
+        - {x: 11, y: -6}
+        - {x: 13, y: -2}
+        - {x: 13, y: 2}
+    - name: foxfriend32x32_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 12}
+        - {x: -9, y: 9}
+        - {x: -13, y: 0}
+        - {x: -13, y: -4}
+        - {x: -12, y: -6}
+        - {x: 12, y: -6}
+        - {x: 13, y: -2}
+        - {x: 13, y: 6}
+        - {x: 11, y: 12}
+    - name: foxfriend32x32_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 11}
+        - {x: -13, y: 4}
+        - {x: -13, y: -6}
+        - {x: 12, y: -6}
+        - {x: 16, y: 0}
+        - {x: 16, y: 11}
+    - name: foxfriend32x32_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -13, y: 5}
+        - {x: -13, y: -6}
+        - {x: 13, y: -6}
+        - {x: 13, y: 6}
+        - {x: 8, y: 13}
+    - name: foxfriend32x32_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 8}
+        - {x: -14, y: 4}
+        - {x: -14, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: -1}
+        - {x: 0, y: 8}
+    - name: foxfriend32x32_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 3}
+        - {x: -4, y: 8}
+        - {x: -8, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -9}
+        - {x: 6, y: -9}
+        - {x: 11, y: -3}
+        - {x: 11, y: 1}
+        - {x: 10, y: 4}
+    - name: foxfriend32x32_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -14, y: 4}
+        - {x: -14, y: -3}
+        - {x: -11, y: -9}
+        - {x: 1, y: -9}
+        - {x: 6, y: -3}
+        - {x: 6, y: 6}
+        - {x: 2, y: 8}
+    - name: foxfriend32x32_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 8}
+        - {x: -14, y: 6}
+        - {x: -14, y: -4}
+        - {x: -12, y: -9}
+        - {x: 3, y: -9}
+        - {x: 5, y: -5}
+        - {x: 5, y: 8}
+    - name: foxfriend32x32_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 3}
+        - {x: -4, y: 8}
+        - {x: -8, y: 8}
+        - {x: -14, y: 3}
+        - {x: -14, y: -9}
+        - {x: 6, y: -9}
+        - {x: 11, y: -3}
+        - {x: 11, y: 1}
+        - {x: 10, y: 4}
+    - name: foxfriend32x32_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 8}
+        - {x: -8, y: 8}
+        - {x: -9, y: 6}
+        - {x: -9, y: -4}
+        - {x: -7, y: -11}
+        - {x: -6, y: -13}
+        - {x: 2, y: -13}
+        - {x: 6, y: -6}
+        - {x: 6, y: 4}
+    - name: foxfriend32x32_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 8}
+        - {x: -5, y: 8}
+        - {x: -9, y: 7}
+        - {x: -10, y: 6}
+        - {x: -10, y: 0}
+        - {x: -8, y: -12}
+        - {x: -7, y: -13}
+        - {x: 1, y: -13}
+        - {x: 4, y: -10}
+        - {x: 5, y: 1}
+        - {x: 5, y: 7}
+    - name: foxfriend32x32_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 8}
+        - {x: -5, y: 8}
+        - {x: -8, y: 7}
+        - {x: -8, y: -7}
+        - {x: -7, y: -13}
+        - {x: 1, y: -13}
+        - {x: 3, y: -12}
+        - {x: 3, y: 6}
+    - name: foxfriend32x32_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -8}
+        - {x: -8, y: -11}
+        - {x: -5, y: -14}
+        - {x: 3, y: -14}
+        - {x: 6, y: -10}
+        - {x: 6, y: 4}
+        - {x: 3, y: 8}
+        - {x: -8, y: 8}
+        - {x: -9, y: 6}
+    - name: foxfriend32x32_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -13}
+        - {x: 3, y: -13}
+        - {x: 6, y: -6}
+        - {x: 6, y: 7}
+        - {x: 2, y: 8}
+    - name: foxfriend32x32_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -8, y: 7}
+        - {x: -8, y: -5}
+        - {x: -7, y: -10}
+        - {x: -6, y: -13}
+        - {x: 0, y: -13}
+        - {x: 4, y: -12}
+        - {x: 4, y: 7}
+        - {x: 1, y: 8}
+    - name: foxfriend32x32_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 8}
+        - {x: -10, y: 7}
+        - {x: -10, y: -2}
+        - {x: -8, y: -11}
+        - {x: -4, y: -13}
+        - {x: 0, y: -13}
+        - {x: 3, y: -12}
+        - {x: 3, y: 8}
+    - name: foxfriend32x32_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -9}
+        - {x: -7, y: -13}
+        - {x: 0, y: -13}
+        - {x: 4, y: -10}
+        - {x: 6, y: 0}
+        - {x: 6, y: 6}
+        - {x: 2, y: 8}
+    - name: foxfriend32x32_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 8}
+        - {x: -10, y: -1}
+        - {x: -7, y: -13}
+        - {x: 3, y: -13}
+        - {x: 4, y: -11}
+        - {x: 4, y: 8}
+    - name: foxfriend32x32_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 10}
+        - {x: -8, y: 10}
+        - {x: -13, y: 5}
+        - {x: -13, y: -2}
+        - {x: -11, y: -10}
+        - {x: 5, y: -10}
+        - {x: 12, y: 3}
+        - {x: 12, y: 7}
+        - {x: 9, y: 9}
+    - name: foxfriend32x32_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 7}
+        - {x: -16, y: 2}
+        - {x: -16, y: -5}
+        - {x: -11, y: -10}
+        - {x: 6, y: -10}
+        - {x: 14, y: 2}
+        - {x: 14, y: 7}
+    - name: foxfriend32x32_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 8}
+        - {x: -13, y: 2}
+        - {x: -14, y: -1}
+        - {x: -14, y: -4}
+        - {x: -7, y: -10}
+        - {x: 8, y: -10}
+        - {x: 14, y: 3}
+        - {x: 14, y: 8}
+    - name: foxfriend32x32_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 7}
+        - {x: -14, y: -3}
+        - {x: -14, y: -10}
+        - {x: 6, y: -10}
+        - {x: 14, y: 2}
+        - {x: 14, y: 6}
+        - {x: 13, y: 7}
+    - name: foxfriend32x32_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -4}
+        - {x: -14, y: -10}
+        - {x: 5, y: -10}
+        - {x: 14, y: -1}
+        - {x: 14, y: 6}
+        - {x: 8, y: 6}
+        - {x: -9, y: 4}
+    - name: foxfriend32x32_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 6}
+        - {x: -7, y: 1}
+        - {x: -14, y: -4}
+        - {x: -14, y: -10}
+        - {x: 4, y: -10}
+        - {x: 8, y: -6}
+        - {x: 14, y: 1}
+        - {x: 14, y: 4}
+    - name: foxfriend32x32_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 6}
+        - {x: -14, y: -2}
+        - {x: -14, y: -10}
+        - {x: 4, y: -10}
+        - {x: 14, y: 1}
+        - {x: 14, y: 5}
+        - {x: 13, y: 6}
+    - name: foxfriend32x32_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 6}
+        - {x: -7, y: 1}
+        - {x: -14, y: -4}
+        - {x: -14, y: -10}
+        - {x: 5, y: -10}
+        - {x: 14, y: -1}
+        - {x: 14, y: 5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
